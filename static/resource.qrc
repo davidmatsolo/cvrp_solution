@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/ant-48.ico</file>
+    <file>icons/arrow-31-48.ico</file>
+    <file>icons/arrow-96-48.ico</file>
+    <file>icons/bird-2-48 (1).ico</file>
+    <file>icons/categorize-48.ico</file>
+    <file>icons/combo-48.ico</file>
+    <file>icons/create-icon-png-9.ico</file>
+    <file>icons/home-4-48.ico</file>
+    <file>icons/icons8-bacteria-50-_1_.ico</file>
+    <file>icons/literature-48.ico</file>
+    <file>icons/menu-4-4.ico</file>
+    <file>icons/menu-4-48.ico</file>
+    <file>icons/mind-map-48.ico</file>
+    <file>icons/play-3-48.ico</file>
+    <file>icons/play-48.ico</file>
+    <file>icons/polyline-48.ico</file>
+    <file>icons/redeem-32.ico</file>
+    <file>icons/refresh-48.ico</file>
+    <file>icons/road-2-48.ico</file>
+    <file>icons/search-3-48.ico</file>
+    <file>icons/search-14-64.ico</file>
+    <file>icons/upload-2-48.ico</file>
+    <file>icons/upload-3-48.ico</file>
+    <file>icons/x-mark-4-32.ico</file>
+    <file>icons/x-mark-4-48.ico</file>
+  </qresource>
+</RCC>
